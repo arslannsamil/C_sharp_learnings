@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Metot Ornek Soru2\bin\Debug\Metot Ornek Soru2.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Metot Ornek Soru2\bin\Debug\Metot Ornek Soru2.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Metot Ornek Soru2\bin\Debug\Metot Ornek Soru2.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Metot Ornek Soru2\obj\Debug\Metot Ornek Soru2.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Metot Ornek Soru2\obj\Debug\Metot Ornek Soru2.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Metot Ornek Soru2\obj\Debug\Metot Ornek Soru2.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Metot Ornek Soru2\obj\Debug\Metot Ornek Soru2.pdb

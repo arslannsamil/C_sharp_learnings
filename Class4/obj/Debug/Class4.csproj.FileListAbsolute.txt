@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class4\bin\Debug\Class4.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class4\bin\Debug\Class4.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class4\bin\Debug\Class4.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class4\obj\Debug\Class4.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class4\obj\Debug\Class4.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class4\obj\Debug\Class4.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class4\obj\Debug\Class4.pdb

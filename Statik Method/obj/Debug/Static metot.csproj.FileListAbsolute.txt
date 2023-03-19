@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Samil\Desktop\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Samil\Desktop\C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Samil\Desktop\C#\ConsoleApp1\obj\Debug\Static metot.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\ConsoleApp1\obj\Debug\Static metot.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Samil\Desktop\C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,14 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\kalıtım uygulama\kalıtım uygulama\obj\Debug\kalıtım uygulama.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\kalıtım uygulama\kalıtım uygulama\obj\Debug\kalıtım uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\kalıtım uygulama\kalıtım uygulama\bin\Debug\kalıtım uygulama.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\kalıtım uygulama\kalıtım uygulama\bin\Debug\kalıtım uygulama.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\kalıtım uygulama\kalıtım uygulama\bin\Debug\kalıtım uygulama.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\kalıtım uygulama\kalıtım uygulama\obj\Debug\kalıtım uygulama.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\kalıtım uygulama\kalıtım uygulama\obj\Debug\kalıtım uygulama.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\KALITIM UYGULAMA\kalıtım uygulama\bin\Debug\kalıtım uygulama.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\KALITIM UYGULAMA\kalıtım uygulama\bin\Debug\kalıtım uygulama.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\KALITIM UYGULAMA\kalıtım uygulama\bin\Debug\kalıtım uygulama.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\KALITIM UYGULAMA\kalıtım uygulama\obj\Debug\kalıtım uygulama.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\KALITIM UYGULAMA\kalıtım uygulama\obj\Debug\kalıtım uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\KALITIM UYGULAMA\kalıtım uygulama\obj\Debug\kalıtım uygulama.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\KALITIM UYGULAMA\kalıtım uygulama\obj\Debug\kalıtım uygulama.pdb

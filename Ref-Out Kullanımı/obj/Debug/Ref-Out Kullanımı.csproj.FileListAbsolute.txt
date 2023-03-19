@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ref-Out Kullanımı\bin\Debug\Ref-Out Kullanımı.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ref-Out Kullanımı\bin\Debug\Ref-Out Kullanımı.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ref-Out Kullanımı\bin\Debug\Ref-Out Kullanımı.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ref-Out Kullanımı\obj\Debug\Ref-Out Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ref-Out Kullanımı\obj\Debug\Ref-Out Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ref-Out Kullanımı\obj\Debug\Ref-Out Kullanımı.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ref-Out Kullanımı\obj\Debug\Ref-Out Kullanımı.pdb

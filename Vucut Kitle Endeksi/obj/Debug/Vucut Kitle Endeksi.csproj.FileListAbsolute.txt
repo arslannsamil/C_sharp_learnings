@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Vucut Kitle Endeksi\bin\Debug\Vucut Kitle Endeksi.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Vucut Kitle Endeksi\bin\Debug\Vucut Kitle Endeksi.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Vucut Kitle Endeksi\bin\Debug\Vucut Kitle Endeksi.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Vucut Kitle Endeksi\obj\Debug\Vucut Kitle Endeksi.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Vucut Kitle Endeksi\obj\Debug\Vucut Kitle Endeksi.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Vucut Kitle Endeksi\obj\Debug\Vucut Kitle Endeksi.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Vucut Kitle Endeksi\obj\Debug\Vucut Kitle Endeksi.pdb

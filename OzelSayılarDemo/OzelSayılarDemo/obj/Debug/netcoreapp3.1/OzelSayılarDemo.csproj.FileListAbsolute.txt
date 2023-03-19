@@ -1,0 +1,14 @@
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\bin\Debug\netcoreapp3.1\OzelSayılarDemo.exe
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\bin\Debug\netcoreapp3.1\OzelSayılarDemo.deps.json
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\bin\Debug\netcoreapp3.1\OzelSayılarDemo.runtimeconfig.json
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\bin\Debug\netcoreapp3.1\OzelSayılarDemo.runtimeconfig.dev.json
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\bin\Debug\netcoreapp3.1\OzelSayılarDemo.dll
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\bin\Debug\netcoreapp3.1\OzelSayılarDemo.pdb
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\obj\Debug\netcoreapp3.1\OzelSayılarDemo.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\obj\Debug\netcoreapp3.1\OzelSayılarDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\obj\Debug\netcoreapp3.1\OzelSayılarDemo.AssemblyInfoInputs.cache
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\obj\Debug\netcoreapp3.1\OzelSayılarDemo.AssemblyInfo.cs
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\obj\Debug\netcoreapp3.1\OzelSayılarDemo.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\obj\Debug\netcoreapp3.1\OzelSayılarDemo.dll
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\obj\Debug\netcoreapp3.1\OzelSayılarDemo.pdb
+C:\Users\Samil\Desktop\C#\OzelSayılarDemo\OzelSayılarDemo\obj\Debug\netcoreapp3.1\OzelSayılarDemo.genruntimeconfig.cache

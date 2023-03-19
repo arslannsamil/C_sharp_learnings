@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Method\bin\Debug\Method.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Method\bin\Debug\Method.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Method\bin\Debug\Method.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Method\obj\Debug\Parametresiz Method.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Method\obj\Debug\Parametresiz Method.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Method\obj\Debug\Method.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Method\obj\Debug\Method.pdb

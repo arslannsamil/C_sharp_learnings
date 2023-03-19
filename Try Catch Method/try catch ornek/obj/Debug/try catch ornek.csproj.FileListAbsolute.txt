@@ -1,0 +1,7 @@
+C:\Users\Samil\source\repos\try catch ornek\try catch ornek\bin\Debug\try catch ornek.exe.config
+C:\Users\Samil\source\repos\try catch ornek\try catch ornek\bin\Debug\try catch ornek.exe
+C:\Users\Samil\source\repos\try catch ornek\try catch ornek\bin\Debug\try catch ornek.pdb
+C:\Users\Samil\source\repos\try catch ornek\try catch ornek\obj\Debug\try catch ornek.csproj.AssemblyReference.cache
+C:\Users\Samil\source\repos\try catch ornek\try catch ornek\obj\Debug\try catch ornek.csproj.CoreCompileInputs.cache
+C:\Users\Samil\source\repos\try catch ornek\try catch ornek\obj\Debug\try catch ornek.exe
+C:\Users\Samil\source\repos\try catch ornek\try catch ornek\obj\Debug\try catch ornek.pdb

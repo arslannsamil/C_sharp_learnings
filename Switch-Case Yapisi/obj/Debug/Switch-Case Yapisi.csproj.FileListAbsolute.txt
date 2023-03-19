@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Switch-Case Yapisi\bin\Debug\Switch-Case Yapisi.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Switch-Case Yapisi\bin\Debug\Switch-Case Yapisi.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Switch-Case Yapisi\bin\Debug\Switch-Case Yapisi.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Switch-Case Yapisi\obj\Debug\Switch-Case Yapisi.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Switch-Case Yapisi\obj\Debug\Switch-Case Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Switch-Case Yapisi\obj\Debug\Switch-Case Yapisi.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Switch-Case Yapisi\obj\Debug\Switch-Case Yapisi.pdb

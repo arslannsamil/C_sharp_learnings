@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Foreach Dongusu\bin\Debug\Foreach Dongusu.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Foreach Dongusu\bin\Debug\Foreach Dongusu.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Foreach Dongusu\bin\Debug\Foreach Dongusu.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Foreach Dongusu\obj\Debug\Foreach Dongusu.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Foreach Dongusu\obj\Debug\Foreach Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Foreach Dongusu\obj\Debug\Foreach Dongusu.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Foreach Dongusu\obj\Debug\Foreach Dongusu.pdb

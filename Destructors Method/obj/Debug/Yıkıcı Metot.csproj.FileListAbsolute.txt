@@ -1,0 +1,6 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Yıkıcı Metot\bin\Debug\Yıkıcı Metot.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Yıkıcı Metot\bin\Debug\Yıkıcı Metot.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Yıkıcı Metot\bin\Debug\Yıkıcı Metot.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Yıkıcı Metot\obj\Debug\Yıkıcı Metot.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Yıkıcı Metot\obj\Debug\Yıkıcı Metot.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Yıkıcı Metot\obj\Debug\Yıkıcı Metot.pdb

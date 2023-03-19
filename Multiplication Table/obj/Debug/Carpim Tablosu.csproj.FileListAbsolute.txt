@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Carpim Tablosu\obj\Debug\Carpim Tablosu.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Carpim Tablosu\obj\Debug\Carpim Tablosu.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Carpim Tablosu\bin\Debug\Carpim Tablosu.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Carpim Tablosu\bin\Debug\Carpim Tablosu.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Carpim Tablosu\bin\Debug\Carpim Tablosu.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Carpim Tablosu\obj\Debug\Carpim Tablosu.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Carpim Tablosu\obj\Debug\Carpim Tablosu.pdb

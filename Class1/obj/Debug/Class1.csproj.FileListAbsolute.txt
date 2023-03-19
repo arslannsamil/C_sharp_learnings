@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class1\bin\Debug\Class1.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class1\bin\Debug\Class1.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class1\bin\Debug\Class1.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class1\obj\Debug\Class1.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class1\obj\Debug\Class1.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class1\obj\Debug\Class1.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Class1\obj\Debug\Class1.pdb

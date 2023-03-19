@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\VERI TIPLERI\bin\Debug\VERI TIPLERI.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\VERI TIPLERI\bin\Debug\VERI TIPLERI.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\VERI TIPLERI\bin\Debug\VERI TIPLERI.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\VERI TIPLERI\obj\Debug\VERI TIPLERI.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\VERI TIPLERI\obj\Debug\VERI TIPLERI.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\VERI TIPLERI\obj\Debug\VERI TIPLERI.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\VERI TIPLERI\obj\Debug\VERI TIPLERI.pdb

@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\kutu operator overloading\kutu operator overloading\bin\Debug\kutu operator overloading.exe.config
+C:\Users\Samil\Desktop\C#\kutu operator overloading\kutu operator overloading\bin\Debug\kutu operator overloading.exe
+C:\Users\Samil\Desktop\C#\kutu operator overloading\kutu operator overloading\bin\Debug\kutu operator overloading.pdb
+C:\Users\Samil\Desktop\C#\kutu operator overloading\kutu operator overloading\obj\Debug\kutu operator overloading.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\kutu operator overloading\kutu operator overloading\obj\Debug\kutu operator overloading.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\kutu operator overloading\kutu operator overloading\obj\Debug\kutu operator overloading.exe
+C:\Users\Samil\Desktop\C#\kutu operator overloading\kutu operator overloading\obj\Debug\kutu operator overloading.pdb

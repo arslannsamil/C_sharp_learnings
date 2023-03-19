@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ogrencı Uygulaması\bin\Debug\Ogrencı Uygulaması.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ogrencı Uygulaması\bin\Debug\Ogrencı Uygulaması.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ogrencı Uygulaması\bin\Debug\Ogrencı Uygulaması.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ogrencı Uygulaması\obj\Debug\Class6.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ogrencı Uygulaması\obj\Debug\Class6.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ogrencı Uygulaması\obj\Debug\Ogrencı Uygulaması.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Ogrencı Uygulaması\obj\Debug\Ogrencı Uygulaması.pdb

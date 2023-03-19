@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Parametreli Method\bin\Debug\Parametreli Method.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Parametreli Method\bin\Debug\Parametreli Method.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Parametreli Method\bin\Debug\Parametreli Method.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Parametreli Method\obj\Debug\Parametreli-Donmeyen Method.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Parametreli Method\obj\Debug\Parametreli-Donmeyen Method.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Parametreli Method\obj\Debug\Parametreli Method.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Parametreli Method\obj\Debug\Parametreli Method.pdb

@@ -1,0 +1,14 @@
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\bin\Debug\netcoreapp3.1\SinavHazilrik.exe
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\bin\Debug\netcoreapp3.1\SinavHazilrik.deps.json
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\bin\Debug\netcoreapp3.1\SinavHazilrik.runtimeconfig.json
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\bin\Debug\netcoreapp3.1\SinavHazilrik.runtimeconfig.dev.json
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\bin\Debug\netcoreapp3.1\SinavHazilrik.dll
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\bin\Debug\netcoreapp3.1\SinavHazilrik.pdb
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\obj\Debug\netcoreapp3.1\SinavHazilrik.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\obj\Debug\netcoreapp3.1\SinavHazilrik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\obj\Debug\netcoreapp3.1\SinavHazilrik.AssemblyInfoInputs.cache
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\obj\Debug\netcoreapp3.1\SinavHazilrik.AssemblyInfo.cs
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\obj\Debug\netcoreapp3.1\SinavHazilrik.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\obj\Debug\netcoreapp3.1\SinavHazilrik.dll
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\obj\Debug\netcoreapp3.1\SinavHazilrik.pdb
+C:\Users\Samil\Desktop\C#\SinavHazilrik\SinavHazilrik\obj\Debug\netcoreapp3.1\SinavHazilrik.genruntimeconfig.cache

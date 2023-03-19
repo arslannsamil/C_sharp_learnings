@@ -1,0 +1,14 @@
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\bin\Debug\netcoreapp3.1\SınaavaHazırlık2.exe
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\bin\Debug\netcoreapp3.1\SınaavaHazırlık2.deps.json
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\bin\Debug\netcoreapp3.1\SınaavaHazırlık2.runtimeconfig.json
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\bin\Debug\netcoreapp3.1\SınaavaHazırlık2.runtimeconfig.dev.json
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\bin\Debug\netcoreapp3.1\SınaavaHazırlık2.dll
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\bin\Debug\netcoreapp3.1\SınaavaHazırlık2.pdb
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\obj\Debug\netcoreapp3.1\SınaavaHazırlık2.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\obj\Debug\netcoreapp3.1\SınaavaHazırlık2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\obj\Debug\netcoreapp3.1\SınaavaHazırlık2.AssemblyInfoInputs.cache
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\obj\Debug\netcoreapp3.1\SınaavaHazırlık2.AssemblyInfo.cs
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\obj\Debug\netcoreapp3.1\SınaavaHazırlık2.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\obj\Debug\netcoreapp3.1\SınaavaHazırlık2.dll
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\obj\Debug\netcoreapp3.1\SınaavaHazırlık2.pdb
+C:\Users\Samil\Desktop\C#\SınaavaHazırlık2\SınaavaHazırlık2\obj\Debug\netcoreapp3.1\SınaavaHazırlık2.genruntimeconfig.cache

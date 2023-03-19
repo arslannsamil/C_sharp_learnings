@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Break-Continue\bin\Debug\Break-Continue.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Break-Continue\bin\Debug\Break-Continue.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Break-Continue\bin\Debug\Break-Continue.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Break-Continue\obj\Debug\Break-Continue.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Break-Continue\obj\Debug\Break-Continue.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Break-Continue\obj\Debug\Break-Continue.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Break-Continue\obj\Debug\Break-Continue.pdb

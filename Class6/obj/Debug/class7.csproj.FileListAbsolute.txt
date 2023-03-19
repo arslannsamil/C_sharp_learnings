@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\class7\bin\Debug\class7.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\class7\bin\Debug\class7.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\class7\bin\Debug\class7.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\class7\obj\Debug\class7.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\class7\obj\Debug\class7.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\class7\obj\Debug\class7.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\class7\obj\Debug\class7.pdb

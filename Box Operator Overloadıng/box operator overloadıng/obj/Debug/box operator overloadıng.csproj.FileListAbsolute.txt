@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\box operator overloadıng\box operator overloadıng\bin\Debug\box operator overloadıng.exe.config
+C:\Users\Samil\Desktop\C#\box operator overloadıng\box operator overloadıng\bin\Debug\box operator overloadıng.exe
+C:\Users\Samil\Desktop\C#\box operator overloadıng\box operator overloadıng\bin\Debug\box operator overloadıng.pdb
+C:\Users\Samil\Desktop\C#\box operator overloadıng\box operator overloadıng\obj\Debug\box operator overloadıng.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\box operator overloadıng\box operator overloadıng\obj\Debug\box operator overloadıng.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\box operator overloadıng\box operator overloadıng\obj\Debug\box operator overloadıng.exe
+C:\Users\Samil\Desktop\C#\box operator overloadıng\box operator overloadıng\obj\Debug\box operator overloadıng.pdb

@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\TUR DONUSUMLERI\bin\Debug\TUR DONUSUMLERI.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\TUR DONUSUMLERI\bin\Debug\TUR DONUSUMLERI.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\TUR DONUSUMLERI\bin\Debug\TUR DONUSUMLERI.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\TUR DONUSUMLERI\obj\Debug\TUR DONUSUMLERI.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\TUR DONUSUMLERI\obj\Debug\TUR DONUSUMLERI.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\TUR DONUSUMLERI\obj\Debug\TUR DONUSUMLERI.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\TUR DONUSUMLERI\obj\Debug\TUR DONUSUMLERI.pdb

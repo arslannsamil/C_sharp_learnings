@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Login Uygulamasi\bin\Debug\Login Uygulamasi.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Login Uygulamasi\bin\Debug\Login Uygulamasi.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Login Uygulamasi\bin\Debug\Login Uygulamasi.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Login Uygulamasi\obj\Debug\Login Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Login Uygulamasi\obj\Debug\Login Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Login Uygulamasi\obj\Debug\Login Uygulamasi.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Login Uygulamasi\obj\Debug\Login Uygulamasi.pdb

@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Statik Yapici Metot\bin\Debug\Statik Yapici Metot.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Statik Yapici Metot\bin\Debug\Statik Yapici Metot.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Statik Yapici Metot\bin\Debug\Statik Yapici Metot.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Statik Yapici Metot\obj\Debug\Statik Yapici Metot.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Statik Yapici Metot\obj\Debug\Statik Yapici Metot.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Statik Yapici Metot\obj\Debug\Statik Yapici Metot.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Statik Yapici Metot\obj\Debug\Statik Yapici Metot.pdb

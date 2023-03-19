@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\operatoroverloading2\operatoroverloading2\bin\Debug\operatoroverloading2.exe.config
+C:\Users\Samil\Desktop\C#\operatoroverloading2\operatoroverloading2\bin\Debug\operatoroverloading2.exe
+C:\Users\Samil\Desktop\C#\operatoroverloading2\operatoroverloading2\bin\Debug\operatoroverloading2.pdb
+C:\Users\Samil\Desktop\C#\operatoroverloading2\operatoroverloading2\obj\Debug\operatoroverloading2.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\operatoroverloading2\operatoroverloading2\obj\Debug\operatoroverloading2.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\operatoroverloading2\operatoroverloading2\obj\Debug\operatoroverloading2.exe
+C:\Users\Samil\Desktop\C#\operatoroverloading2\operatoroverloading2\obj\Debug\operatoroverloading2.pdb

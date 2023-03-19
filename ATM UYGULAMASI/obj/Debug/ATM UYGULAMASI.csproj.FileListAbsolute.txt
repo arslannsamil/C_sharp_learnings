@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\ATM UYGULAMASI\bin\Debug\ATM UYGULAMASI.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\ATM UYGULAMASI\bin\Debug\ATM UYGULAMASI.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\ATM UYGULAMASI\bin\Debug\ATM UYGULAMASI.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\ATM UYGULAMASI\obj\Debug\ATM UYGULAMASI.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\ATM UYGULAMASI\obj\Debug\ATM UYGULAMASI.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\ATM UYGULAMASI\obj\Debug\ATM UYGULAMASI.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\ATM UYGULAMASI\obj\Debug\ATM UYGULAMASI.pdb

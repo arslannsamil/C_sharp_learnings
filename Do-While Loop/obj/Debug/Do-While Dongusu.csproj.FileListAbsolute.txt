@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Do-While Dongusu\bin\Debug\Do-While Dongusu.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Do-While Dongusu\bin\Debug\Do-While Dongusu.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Do-While Dongusu\bin\Debug\Do-While Dongusu.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Do-While Dongusu\obj\Debug\Do-While Dongusu.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Do-While Dongusu\obj\Debug\Do-While Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Do-While Dongusu\obj\Debug\Do-While Dongusu.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\Do-While Dongusu\obj\Debug\Do-While Dongusu.pdb

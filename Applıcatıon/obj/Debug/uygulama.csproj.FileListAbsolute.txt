@@ -1,0 +1,7 @@
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\uygulama\bin\Debug\uygulama.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\uygulama\bin\Debug\uygulama.pdb
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\uygulama\obj\Debug\uygulama.csproj.AssemblyReference.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\uygulama\obj\Debug\uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\uygulama\obj\Debug\uygulama.exe
+C:\Users\Samil\Desktop\C#\DERS NOTLARI\uygulama\obj\Debug\uygulama.pdb
